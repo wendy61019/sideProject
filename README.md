@@ -1,3 +1,3 @@
-# sideproject
+# side project
 
-sideproject for life!
+side project for life!
